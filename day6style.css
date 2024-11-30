@@ -1,0 +1,37 @@
+.sample1{
+    color:rgb(199, 130, 19);
+    background-image: url(bg3.jpg);
+    background-repeat: no-repeat;
+    opacity: 0.8;
+    background-size:cover;
+    margin-left: 50px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+   
+    
+}
+.sample2{
+
+    height:200px;
+    width:700px;
+
+    
+    border-color:rgb(70, 2, 2);
+    color: rgb(3, 37, 67);
+    border-top-left-radius: 0%;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 0%;
+    border-top-color:red ;
+    border-bottom-color:blueviolet ;
+    border-right-color:red ;
+    border-left-color: blueviolet;
+    border-style:solid;
+    border-width: 2px;
+    border-top-width:10px ;
+    border-bottom-width:10px ;
+    padding-left: 50px;
+    padding-top: 50px;
+    margin-left: 50px;
+    background-image: url(bg.jpg);
+}

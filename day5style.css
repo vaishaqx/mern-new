@@ -1,0 +1,13 @@
+.para1{
+    color:rgb(87, 9, 9);
+}
+.para2{
+    color:rgba(55, 9, 73, 0.82);
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight : 600;
+    
+    text-align : justify;
+    text-decoration: underline;
+    text-decoration-style:none;
+} 
